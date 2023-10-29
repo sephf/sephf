@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align= "center"> <h1 align="center">Hi, I'm Joseph👋</h1></div>
+
+### Welcome to my GitHub corner! I'm passionate about software development, technology, and innovation.
+
+## About Me
+- 👨‍💻 Software Developer.
+- 🌍 Travel and exploration enthusiast.
+- 📚 Always learning and improving.
+- 💬 Interested in collaborating on a project or just having a chat? [Let's talk!](mailto:jsephxy@gmail.com)
 
 <!--
 **sephf/sephf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
