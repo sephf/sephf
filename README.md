@@ -1,10 +1,10 @@
-<div align= "center"> <h1 align="center">Hi there! I'm Joseph</h1></div>
+### <div align= "center"> <h1 align="center">Hi, Welcome to my GitHub corner!</h1></div>
 
-### Welcome to my GitHub corner! I'm passionate about software development, technology, and innovation.
+I'm passionate about software development, technology, and innovation.
 
 ## About Me
 - 👨‍💻 Software Developer.
-- 🌍 Travel and exploration enthusiast.
+- 🔭 Exploration enthusiast.
 - 📚 Always learning and improving.
 - 💬 Interested in collaborating on a project or just having a chat? [Let's talk!](mailto:jsephxy@gmail.com)
 
