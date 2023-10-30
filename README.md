@@ -1,4 +1,4 @@
-<div align= "center"> <h1 align="center">Hi, I'm Joseph👋</h1></div>
+<div align= "center"> <h1 align="center">Hi there! I'm Joseph</h1></div>
 
 ### Welcome to my GitHub corner! I'm passionate about software development, technology, and innovation.
 
