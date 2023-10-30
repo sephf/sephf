@@ -1,6 +1,6 @@
-### <div align= "center"> <h1 align="center">Hi, Welcome to my GitHub corner!</h1></div>
+### <div align= "center"> <h1 align="center">Hi, welcome to my GitHub corner!</h1></div>
 
-I'm passionate about software development, technology, and innovation.
+<div align= "center">I'm passionate about software development, technology, and innovation.</div>
 
 ## About Me
 - 👨‍💻 Software Developer.
