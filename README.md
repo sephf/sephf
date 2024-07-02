@@ -1,4 +1,4 @@
-### <div align= "center"> <h1 align="center">Hi👋, I´m Joseph</h1></div>
+### <div align= "center"> <h1 align="center">Hi, I´m Joseph!</h1></div>
 
 <div align= "center">I'm passionate about software development, technology, and innovation.</div>
 
