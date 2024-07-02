@@ -1,12 +1,9 @@
-### <div align= "center"> <h1 align="center">Hi, I´m Joseph!</h1></div>
+### <div align="center"> <h1 align="center">Hi, I´m Joseph!</h1></div>
+<div align="center">
+  <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
+  <a href="mailto:jsephxy@gmail.com">📫How to reach me</a>
+</div>
 
-<div align= "center">I'm passionate about software development, technology, and innovation.</div>
-
-## About Me
-- 👨‍💻 Software Developer.
-- 🔭 Exploration enthusiast.
-- 📚 Always learning and improving.
-- 💬 Interested in collaborating on a project or just having a chat? [Let's talk!](mailto:jsephxy@gmail.com)
 
 <!--
 **sephf/sephf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
