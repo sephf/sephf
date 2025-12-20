@@ -3,8 +3,8 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
   <a href="mailto:jsephxy@gmail.com">📫How to reach me</a>
 </div>
-
-
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <!--
 **sephf/sephf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
