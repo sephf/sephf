@@ -1,9 +1,7 @@
 ### <div align="center"> <h1 align="center">Hi, I´m Joseph!</h1>👋</div>
 <div align="center">
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
-  <a href="mailto:jsephxy@gmail.com">📫How to reach me</a>
 </div>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"></picture> About me
 ✔ Strong **Teamwork** skills, always open to collaboration 🤝<br>
@@ -84,12 +82,14 @@
 <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort="> 
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS"> 
 </a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=rest&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/restapi.svg" alt="REST API"> 
-</a>
 <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=bootstrap&sort="> 
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" alt="Bootstrap"> 
 </a>
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sephf&label=Profile%20views&color=0e75b6&style=flat" alt="sephf" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sephf&label=Profile%20views&color=0e75b6&style=flat" alt="sephf" /> 
+    <a href="mailto:jsephxy@gmail.com">
+      <img src="https://img.shields.io/badge/Contact%20Me-%40jsephxy-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</p>
