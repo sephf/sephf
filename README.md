@@ -3,24 +3,21 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
 
-<!-- Contenedor principal para poner la imagen y el texto lado a lado -->
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <!-- Imagen a la izquierda -->
+<div style="display: flex; align-items: center;">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About me" width="200">
   </picture>
-  
-  <!-- Texto de habilidades a la derecha -->
-  <div style="margin-left: 20px;">
+    <div style="margin-left: 20px;">
     <h3>About me</h3>
     <ul>
-      <li>✔ Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
-      <li>✔ Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
-      <li>✔ Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
-      <li>✔ <strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
+      <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
+      <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
+      <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
+      <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
     </ul>
   </div>
 </div>
+
 
 
 <p align="center">
