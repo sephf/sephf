@@ -2,13 +2,7 @@
 <div align="center">
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
-
-
-    <img 
-      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-      alt="About me" 
-      width="200"
-    >
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  alt="About me" width="200" / >
     <h3>About me</h3>
     <ul>
       <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
