@@ -21,14 +21,14 @@
 
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
     <i><b>Git Activeness</b></i>
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>
-  </div>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>
+    </div>
 </p>
 
 <br><br><br><br><br>
