@@ -2,24 +2,23 @@
 <div align="center">
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
-
-
-  <table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td width="220" align="center" valign="middle">
       <img 
         src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
         alt="About me" 
         width="200"
       />
     </td>
-    <td>
+
+   <td valign="middle">
       <h3>About me</h3>
       <ul>
-        <li>Strong <strong>Teamwork</strong> skills 🤝</li>
-        <li>Highly <strong>Adaptable</strong> 🔄</li>
-        <li>Passionate about <strong>Problem Solving</strong> 🧠</li>
-        <li><strong>Proactive</strong> mindset 🚀</li>
+        <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
+        <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
+        <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
+        <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
       </ul>
     </td>
   </tr>
