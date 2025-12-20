@@ -2,14 +2,16 @@
 <div align="center">
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About me" width="200" />
-  **About me**
-  <ul>
-    <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
-    <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
-    <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
-    <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
-  </ul>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About me" width="200" /> 
+
+***About me***
+
+<ul>
+  <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
+  <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
+  <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
+  <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
+</ul>
 
 
 
