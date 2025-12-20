@@ -10,13 +10,12 @@
 
 ***About me***
 
-<ul>
-  <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
-  <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
-  <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
-  <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
-</ul>
-    </div>
+  🤝 Strong <strong>Teamwork</strong> skills, always open to collaboration 
+  🔄 Highly <strong>Adaptable</strong> to new technologies and challenges 
+  🧠 Passionate about <strong>Problem Solving</strong> and building effective solutions 
+  🚀 <strong>Proactive</strong> mindset with a constant drive to learn and improve 
+
+  </div>
 </p>
 
 
@@ -26,8 +25,8 @@
 </p>
 <p align="center">
     <div style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git" align="left" width=200px height=200px/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git" align="right" width=200px height=200px/>
     </div>
 </p>
 
