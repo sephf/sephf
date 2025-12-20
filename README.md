@@ -25,8 +25,8 @@
 </p>
 <p align="center">
     <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git" align="center" width=200px height=200px/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sephf&theme=dark&hide_border=true" align="center"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" align="center" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sephf&theme=dark&hide_border=true" />
 </p>
 
 <br><br><br><br><br>
