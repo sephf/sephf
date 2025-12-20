@@ -3,25 +3,27 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
 
-<div style="display: flex; align-items: center; gap: 30px;">
 
-  <img 
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-    alt="About me" 
-    width="200"
-  />
-
-  <div>
-    <h3>About me</h3>
-    <ul>
-      <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
-      <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
-      <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
-      <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
-    </ul>
-  </div>
-
-</div>
+  <table>
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+        alt="About me" 
+        width="200"
+      />
+    </td>
+    <td>
+      <h3>About me</h3>
+      <ul>
+        <li>Strong <strong>Teamwork</strong> skills 🤝</li>
+        <li>Highly <strong>Adaptable</strong> 🔄</li>
+        <li>Passionate about <strong>Problem Solving</strong> 🧠</li>
+        <li><strong>Proactive</strong> mindset 🚀</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
