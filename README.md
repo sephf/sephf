@@ -19,29 +19,8 @@
 <br><br><br><br><br>
 <hr>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
-
-<!-- Lenguajes más usados dinámicamente desde tu perfil de GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<!-- Estadísticas de tu perfil: contribuciones, repos, etc -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sephf&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sephf&label=Profile%20views&color=0e75b6&style=flat" alt="sephf" /> </p>
-<!--
-**sephf/sephf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
