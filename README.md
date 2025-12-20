@@ -3,21 +3,12 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
 
-<div style="
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 20px;
-  align-items: start;
-">
-  <picture>
+
     <img 
       src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
       alt="About me" 
       width="200"
     >
-  </picture>
-
-  <div>
     <h3>About me</h3>
     <ul>
       <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
@@ -25,9 +16,6 @@
       <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
       <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
     </ul>
-  </div>
-</div>
-
 
 
 
