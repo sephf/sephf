@@ -21,12 +21,16 @@
 
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+    <i><b>Git Activeness</b></i>
+    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>
+  </div>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sephf&show_icons=true&locale=en&theme=chartreuse-dark" alt="sephf" />
 </p>
+
 <br><br><br><br><br>
 <hr>
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
