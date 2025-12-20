@@ -25,6 +25,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sephf&show_icons=true&locale=en&theme=chartreuse-dark" alt="sephf" />
 </p>
 <br><br><br><br><br>
 <hr>
