@@ -3,23 +3,21 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200" />
-    </td>
-    <td>
-      <h3>About me</h3>
-      <ul>
-        <li>Strong <b>Teamwork</b> skills 🤝</li>
-        <li>Highly <b>Adaptable</b> to new technologies 🔄</li>
-        <li>Passionate about <b>Problem Solving</b> 🧠</li>
-        <li><b>Proactive</b> mindset 🚀</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <div align="center">
+      
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About me" width="200" /> 
 
+***About me***
+
+<ul>
+  <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
+  <li>Highly <strong>Adaptable</strong> to new technologies and challenges 🔄</li>
+  <li>Passionate about <strong>Problem Solving</strong> and building effective solutions 🧠</li>
+  <li><strong>Proactive</strong> mindset with a constant drive to learn and improve 🚀</li>
+</ul>
+    </div>
+</p>
 
 
 <p align="center">
@@ -29,7 +27,7 @@
 <p align="center">
     <div style="display: flex; justify-content: center; align-items: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git"/>
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git" align="right" width=200px height=200px/>
     </div>
 </p>
 
