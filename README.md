@@ -5,7 +5,7 @@
 
 <table align="center">
   <tr>
-    <td width="220" align="center">
+    <td align="center">
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200" />
     </td>
     <td>
