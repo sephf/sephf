@@ -3,11 +3,21 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 20px;
+  align-items: start;
+">
   <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About me" width="200">
+    <img 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
+      alt="About me" 
+      width="200"
+    >
   </picture>
-    <div style="margin-left: 20px;">
+
+  <div>
     <h3>About me</h3>
     <ul>
       <li>Strong <strong>Teamwork</strong> skills, always open to collaboration 🤝</li>
@@ -20,6 +30,7 @@
 
 
 
+
 <p align="center">
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
     <i><b>Git Activeness</b></i>
@@ -27,7 +38,7 @@
 <p align="center">
     <div style="display: flex; justify-content: center; align-items: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephf&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true" />
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px" alt="Git"/>
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git"/>
     </div>
 </p>
 
