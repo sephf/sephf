@@ -3,6 +3,16 @@
   <p>👨‍💻I'm passionate about software development, technology, and innovation.</p>
   <a href="mailto:jsephxy@gmail.com">📫How to reach me</a>
 </div>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Strong background in **Teamwork** and collaborative environments<br>
+✔ High level of **Adaptability** to fast-changing technologies<br>
+✔ Solid **Problem Solving** skills with a logical and analytical approach<br>
+✔ **Proactive** learner, always seeking growth and improvement<br><br><br><br>
+
+
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sephf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
