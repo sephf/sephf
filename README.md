@@ -24,8 +24,12 @@
     <i><b>Git Activeness</b></i>
 </p>
 <p align="center">
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Git" align="center" width=200px height=200px/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sephf&theme=dark&hide_border=true" height="180em" align="center"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sephf&theme=dark&hide_border=true"
+    height="180em"
+    align="center"
+    onerror="this.onerror=null;this.src='https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif';"
+  />
 </p>
 
 <br><br><br><br><br>
